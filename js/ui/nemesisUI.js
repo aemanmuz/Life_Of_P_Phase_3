@@ -1,0 +1,1 @@
+export function nemesisMarkup(){return `<div class="tag">PHASE 04 PREVIEW</div><div class="objective-card"><strong>The Nemesis Hierarchy</strong><p>Rival captains will remember your encounters, earn promotions and develop unique strengths or fears.</p></div><p class="subtle">This board is a preview only. Procedural captains and domination mechanics are planned for Phase 4.</p>`;}
